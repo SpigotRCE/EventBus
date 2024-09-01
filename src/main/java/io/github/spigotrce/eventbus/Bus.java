@@ -1,6 +1,6 @@
-package io.github.spigotrce;
+package io.github.spigotrce.eventbus;
 
-public class App {
+public class Bus {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
